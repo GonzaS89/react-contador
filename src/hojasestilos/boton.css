@@ -1,0 +1,27 @@
+button{
+    width: 250px;
+    height: 80px;
+    color:white;
+    font-size: 40px;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border-radius: 20px;
+    border: 5px solid white;
+    cursor: pointer;
+    outline: 5px solid black;
+}
+
+button:hover{
+    background-color: black;
+}
+
+.botonClic {
+    background-color: rgba(121, 2, 2, 0.76);
+}
+
+.botonReinicio{
+    background-color: rgb(96, 146, 21);
+}
